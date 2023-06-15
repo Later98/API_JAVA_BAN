@@ -13,6 +13,7 @@ public class Gugudan {
 			System.out.println(dan+" * "+i+" = "+(dan*i));
 			System.out.println();
 			System.out.println();
+			System.out.println();
 		}
 		
 	}
